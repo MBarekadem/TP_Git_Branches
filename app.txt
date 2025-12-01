@@ -1,2 +1,3 @@
 version intial du application
 bonjour
+Ligne modifiée par A.
